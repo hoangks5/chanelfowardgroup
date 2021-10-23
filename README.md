@@ -1,1 +1,1 @@
-# chanelfowardgroup
+Foward messager Chanel to Group
